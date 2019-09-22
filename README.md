@@ -1,2 +1,10 @@
-# SPAM
-Spam Classifier
+# Spam Classifier
+In this project we will learn to make how to create a Machine Lenarning model that will help us to classify if a message is spam or not
+The BASIC STEPS WE WILL BE TAKING ARE</br>
+1)IMPORTING REQUIRED PACKAGES</br>
+2)LOADING DATA</br>
+3)DATA PREPROCESSING</br>
+4)USING SEQUENTIAL AND KERAS WE WILL CREATE A MODEL</br>
+5)SPLITTING DATA INTO TRAINING AND TESTING SETS</br>
+6)VISUALIZATION OF DATA</br>
+7)EXCUTING TH ETRAINING AND TESTING DATA SETS AND SEEING THE ACCURACY OF THE MODEL</br>
